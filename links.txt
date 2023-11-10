@@ -1,9 +1,3 @@
-API key = 9bb72c24695b8a5b25f9b8c341f2786f
-
-
-ACCESS TOKEN = eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5YmI3MmMyNDY5NWI4YTViMjVmOWI4YzM0MWYyNzg2ZiIsInN1YiI6IjY1MTg4MzFhOTNiZDY5MDBmZTQ4ZWRmNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.k2dY_i0edtVp96w9W2-KlmNJQdCHZE1RvcNkH4ikk1U
-
-
 
 Individual:
 https://api.themoviedb.org/3/movie/{movie_id}?api_key=9bb72c24695b8a5b25f9b8c341f2786f
